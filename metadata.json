@@ -1,0 +1,5 @@
+{
+  "name": "CropMaster Pro",
+  "description": "A professional-grade image cropping tool supporting rectangular, custom aspect ratio, and irregular polygon cropping with batch processing capabilities.",
+  "requestFramePermissions": []
+}
